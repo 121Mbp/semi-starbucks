@@ -26,7 +26,6 @@
 
 
 ## API 
-- 프로젝트 API
 - [카카오 지도](https://apis.map.kakao.com/)
 - [포트원](https://portone.io/)
 
